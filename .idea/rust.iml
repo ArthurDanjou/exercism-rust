@@ -78,6 +78,12 @@
       <excludeFolder url="file://$MODULE_DIR$/scrabble-score/target" />
       <excludeFolder url="file://$MODULE_DIR$/all-your-base/target" />
       <excludeFolder url="file://$MODULE_DIR$/parallel-letter-frequency/target" />
+      <excludeFolder url="file://$MODULE_DIR$/health-statistics/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/health-statistics/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/health-statistics/target/tmp" />
+      <excludeFolder url="file://$MODULE_DIR$/role-playing-game/target/debug/build" />
+      <excludeFolder url="file://$MODULE_DIR$/role-playing-game/target/debug/examples" />
+      <excludeFolder url="file://$MODULE_DIR$/role-playing-game/target/tmp" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
